@@ -2,7 +2,6 @@
 
 My name is Sanger Steel. I'm a machine learning engineer. Some projects I've worked on or still working on are below. Check out my [website](https://sangstar.github.io/).
 
-Currently open for work. Please contact me at sangersteel@gmail.com
 
 <!--
 **sangstar/sangstar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
